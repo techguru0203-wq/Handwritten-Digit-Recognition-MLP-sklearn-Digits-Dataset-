@@ -37,13 +37,18 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
 ## 🧠 Train Model
 ```bash
 python src/train.py
 ```
 
+---
+
 ## 🔍 Run Predictions
 ```bash
 python src/predict.py
 ```
-
+---
